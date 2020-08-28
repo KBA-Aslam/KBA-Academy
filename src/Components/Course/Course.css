@@ -1,0 +1,14 @@
+.ship{
+    display: flex;
+    padding-top: 10px;
+}
+.price{
+    padding-top: 10px;
+}
+.cat{
+    width: 50%;
+}
+#makeup {
+    color: goldenrod;
+    background-color: #282c34;
+}

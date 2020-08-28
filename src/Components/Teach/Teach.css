@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+}
+.course-container{
+    width: 70%;
+    margin-right: 10px;
+}
+.cart{
+    margin-left: 50px;
+    width: 300px;
+    margin-right: 0;
+    padding-right: 0 ;
+    text-align: center;
+}
